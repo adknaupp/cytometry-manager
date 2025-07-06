@@ -1,0 +1,9 @@
+pandas
+pydantic==2.9.2
+fastapi
+uvicorn[standard]
+fastui
+sqlmodel
+python-multipart # used in fastui.forms.fastui_form
+matplotlib
+seaborn
