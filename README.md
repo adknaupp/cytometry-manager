@@ -38,3 +38,7 @@ Although the database schema is well-designed, database performance is only opti
 Analyzing the cytometry data requires filtering available data points based on various criteria.
 Cohorts and datasets were introduced to make this filtering simpler and more intuitive.
 See the help page in the UI details on what cohorts and datasets are and what they are useful for.
+
+## Screenshot
+
+![Screenshot of UI](img/dataset_visualization.PNG)
