@@ -114,7 +114,6 @@ def api_index(
                 DisplayLookup(field='treatment'),
                 DisplayLookup(field='age'),
                 DisplayLookup(field='condition'),
-                DisplayLookup(field='time_from_treatment_start')
             ]
         ),
         c.Pagination(page=page, page_size=page_size, total=len(subjects)),
